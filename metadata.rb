@@ -4,7 +4,7 @@ maintainer_email 'dmlb2000@gmail.com'
 license 'all_rights'
 description 'Installs/Configures dmlb2000_distro'
 long_description 'Installs/Configures dmlb2000_distro'
-version '0.1.1'
+version '0.1.2'
 
 depends 'yum-centos'
 depends 'auto-update'
